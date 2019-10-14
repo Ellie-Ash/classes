@@ -1,0 +1,11 @@
+/Users/ellieash/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.0/classes
+/Users/ellieash/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.0/classes.deps.json
+/Users/ellieash/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.0/classes.runtimeconfig.json
+/Users/ellieash/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.0/classes.runtimeconfig.dev.json
+/Users/ellieash/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.0/classes.dll
+/Users/ellieash/workspace/csharp/exercises/classes/bin/Debug/netcoreapp3.0/classes.pdb
+/Users/ellieash/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.0/classes.csprojAssemblyReference.cache
+/Users/ellieash/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.0/classes.AssemblyInfoInputs.cache
+/Users/ellieash/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.0/classes.AssemblyInfo.cs
+/Users/ellieash/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.0/classes.dll
+/Users/ellieash/workspace/csharp/exercises/classes/obj/Debug/netcoreapp3.0/classes.pdb
